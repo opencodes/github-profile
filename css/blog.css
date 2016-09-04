@@ -6,3 +6,17 @@
   color:#76bd43;
   font-size: 16px;
 }
+.fa.fa-angle-double-right {
+  color: #000;
+  font-size: 28px;
+  line-height: 18px;
+}
+.media{
+  color:#929292;
+  font-size: 12px;
+  font-weight: bold;
+}
+.media-heading{
+  color:#26968e;
+  font-size: 20px;
+}
