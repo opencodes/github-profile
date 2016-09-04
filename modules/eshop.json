@@ -1,0 +1,182 @@
+{
+	"category" : [{
+	      "id":1,
+	      "image":"images/shop/product10.jpg",
+	      "name":"Men"
+	   },
+	   {
+	      "id":2,
+	      "image":"images/shop/product10.jpg",
+	      "name":"Women"
+	   },
+	   {
+	      "id":3,
+	      "image":"images/shop/product10.jpg",
+	      "name":"Kids"
+	   }
+	],
+	"product" : [
+  {
+    "id": 10000,
+    "price": "$3,289.19",
+    "image": "images/shop/product7.jpg",
+    "name": "veniam cupidatat eiusmod",
+    "category": 2
+  },
+  {
+    "id": 10001,
+    "price": "$3,309.61",
+    "image": "images/shop/product7.jpg",
+    "name": "amet est ad",
+    "category": 2
+  },
+  {
+    "id": 10002,
+    "price": "$2,596.23",
+    "image": "images/shop/product7.jpg",
+    "name": "nostrud est excepteur",
+    "category": 2
+  },
+  {
+    "id": 10003,
+    "price": "$3,573.59",
+    "image": "images/shop/product12.jpg",
+    "name": "anim mollit est",
+    "category": 1
+  },
+  {
+    "id": 10004,
+    "price": "$2,909.78",
+    "image": "images/shop/product7.jpg",
+    "name": "pariatur exercitation laborum",
+    "category": 2
+  },
+  {
+    "id": 10005,
+    "price": "$3,612.15",
+    "image": "images/shop/product7.jpg",
+    "name": "exercitation anim magna",
+    "category": 2
+  },
+  {
+    "id": 10006,
+    "price": "$1,409.34",
+    "image": "images/shop/product7.jpg",
+    "name": "dolore dolore non",
+    "category": 2
+  },
+  {
+    "id": 10007,
+    "price": "$3,336.95",
+    "image": "images/shop/product7.jpg",
+    "name": "amet irure reprehenderit",
+    "category": 2
+  },
+  {
+    "id": 10008,
+    "price": "$1,538.32",
+    "image": "images/shop/product7.jpg",
+    "name": "elit ut laborum",
+    "category": 2
+  },
+  {
+    "id": 10009,
+    "price": "$2,434.18",
+    "image": "images/shop/product7.jpg",
+    "name": "reprehenderit excepteur proident",
+    "category": 2
+  },
+  {
+    "id": 100010,
+    "price": "$2,007.37",
+    "image": "images/shop/product12.jpg",
+    "name": "dolor aute pariatur",
+    "category": 1
+  },
+  {
+    "id": 100011,
+    "price": "$1,646.27",
+    "image": "images/shop/product11.jpg",
+    "name": "incididunt id irure",
+    "category": 3
+  },
+  {
+    "id": 100012,
+    "price": "$2,174.41",
+    "image": "images/shop/product7.jpg",
+    "name": "laborum sunt incididunt",
+    "category": 2
+  },
+  {
+    "id": 100013,
+    "price": "$3,806.51",
+    "image": "images/shop/product12.jpg",
+    "name": "minim cillum voluptate",
+    "category": 1
+  },
+  {
+    "id": 100014,
+    "price": "$2,734.53",
+    "image": "images/shop/product7.jpg",
+    "name": "non tempor minim",
+    "category": 2
+  },
+  {
+    "id": 100015,
+    "price": "$2,591.90",
+    "image": "images/shop/product8.jpg",
+    "name": "laborum voluptate quis",
+    "category": 3
+  },
+  {
+    "id": 100016,
+    "price": "$3,818.01",
+    "image": "images/shop/product8.jpg",
+    "name": "ipsum et nostrud",
+    "category": 3
+  },
+  {
+    "id": 100017,
+    "price": "$2,867.81",
+    "image": "images/shop/product12.jpg",
+    "name": "eu ipsum proident",
+    "category": 1
+  },
+  {
+    "id": 100018,
+    "price": "$1,491.76",
+    "image": "images/shop/product7.jpg",
+    "name": "pariatur magna tempor",
+    "category": 2
+  },
+  {
+    "id": 100019,
+    "price": "$2,218.39",
+    "image": "images/shop/product7.jpg",
+    "name": "culpa tempor cupidatat",
+    "category": 2
+  },
+  {
+    "id": 100020,
+    "price": "$2,047.43",
+    "image": "images/shop/product7.jpg",
+    "name": "veniam eiusmod commodo",
+    "category": 2
+  },
+  {
+    "id": 100021,
+    "price": "$3,170.08",
+    "image": "images/shop/product7.jpg",
+    "name": "id laboris fugiat",
+    "category": 2
+  },
+  {
+    "id": 100022,
+    "price": "$2,857.47",
+    "image": "images/shop/product7.jpg",
+    "name": "incididunt eiusmod reprehenderit",
+    "category": 2
+  }
+  
+]
+}

@@ -1,0 +1,32 @@
+<div class="row">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">
+        Filter
+      </a>
+    </div>
+    <form class="navbar-form navbar-right navbar-default" role="search">
+  <div class="form-group row">
+  	<input type="text" class="form-control" placeholder="Search" ng-model="search.name">
+  	
+  	<input type="text" class="form-control" placeholder="Search" ng-model="search.price">
+
+    <select class="form-control" ng-model="search.category">
+      <option value="">Select Category</option>
+	  <option value="1">1</option>
+	  <option value="2">2</option>
+	  <option value="3">3</option>	 
+	</select>
+  </div>
+</form>
+  </div>
+</nav>
+
+</div>
+<hr/>
+<div class="row">
+	<div class="col-sm-4 product-list" ng-animate="animate" ng-repeat="item in eshop.product | filterByCategory : search.category  ">
+	     <product-tile data-product="item"  add-to-wish-list="addToWishList(id)" cat="Men" />
+	</div>
+</div>
